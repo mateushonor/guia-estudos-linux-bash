@@ -26,7 +26,7 @@ Isso significa que o comando ls é um programa executável localizado no diretó
 
 ---
 
-#Verificando um comando interno do shell
+# Verificando um comando interno do shell
 
 Alguns comandos não são programas externos, mas sim comandos internos do Bash.
 
@@ -61,7 +61,7 @@ Isso significa que ll é um atalho (alias) para o comando ls -alF.
 
 ---
 
-#Verificando múltiplos comandos
+# Verificando múltiplos comandos
 
 Também podemos verificar mais de um comando ao mesmo tempo:
 
