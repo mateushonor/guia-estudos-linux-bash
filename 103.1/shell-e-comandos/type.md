@@ -25,7 +25,7 @@ ls is /usr/bin/ls
 Isso significa que o comando ls é um programa executável localizado no diretório /usr/bin/ls.
 
 
-Verificando um comando interno do shell
+#Verificando um comando interno do shell
 
 Alguns comandos não são programas externos, mas sim comandos internos do Bash.
 
@@ -43,7 +43,7 @@ cd is a shell builtin
 Isso indica que cd é um comando interno do shell Bash.
 
 
-Verificando um alias
+#Verificando um alias
 
 Se existir um alias configurado no sistema, o comando type mostrará essa informação.
 
@@ -58,7 +58,7 @@ ll is aliased to 'ls -alF'
 Isso significa que ll é um atalho (alias) para o comando ls -alF.
 
 
-Verificando múltiplos comandos
+#Verificando múltiplos comandos
 
 Também podemos verificar mais de um comando ao mesmo tempo:
 
