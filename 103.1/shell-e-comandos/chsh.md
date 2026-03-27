@@ -62,10 +62,12 @@ chsh -s /bin/zsh
 ```
 Depois de fazer logout e login novamente, o sistema iniciará usando o Zsh.
 
-Resumo
+---
+
+# Resumo
 Comando	Função
 ```bash
-echo --> $SHELL	mostra o shell atual
+echo $SHELL	--->mostra o shell atual
 chsh -s /bin/bash	--->altera o shell padrão
-cat /etc/shells	--> mostra os shells disponíveis
+cat /etc/shells	---> mostra os shells disponíveis
 ```
