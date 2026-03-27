@@ -45,7 +45,7 @@ Isso indica que cd é um comando interno do shell Bash.
 
 ---
 
-#Verificando um alias
+# Verificando um alias
 
 Se existir um alias configurado no sistema, o comando type mostrará essa informação.
 
